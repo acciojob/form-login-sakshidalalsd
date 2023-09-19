@@ -1,4 +1,5 @@
 function getFormvalue() {
-    //Write your code here
+    alert("Enter your first Name");
+	alert("Enter your Last Name")
 
 }
